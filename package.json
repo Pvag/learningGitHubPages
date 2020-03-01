@@ -1,0 +1,22 @@
+{
+  "name": "learninggithubpages-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pvag/learningGitHubPages.git"
+  },
+  "author": "Pvag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pvag/learningGitHubPages/issues"
+  },
+  "homepage": "https://Pvag.github.io/learningGitHubPages",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
